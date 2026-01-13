@@ -18,7 +18,7 @@ This repository serves as a "Proof of Work" for my ability to:
 ---
 
 ### 📂 Featured Case Study: The Retention Strategy
-**[📄 View the Presentation (PDF)](**
+**[📄 View the Presentation (PDF)](**https://github.com/RreMatlabe/RreMatlabe/blob/a7d4b46462bbe19475b520d9c4ada0507c0b326f/Katlego%20Matlabe's%20Career%20Portfolio.pptx)
 
 *Note: Update the link above to match your exact filename!*
 
