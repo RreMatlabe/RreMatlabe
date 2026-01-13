@@ -18,7 +18,7 @@ This repository serves as a "Proof of Work" for my ability to:
 ---
 
 ### 📂 Featured Case Study: The Retention Strategy
-**[📄 View the Presentation (PDF)](./Client_Success_and_Training/Katlego_Matlabe_CS_Portfolio.pdf)**
+**[📄 View the Presentation (PDF)](**
 
 *Note: Update the link above to match your exact filename!*
 
