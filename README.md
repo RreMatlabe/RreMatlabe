@@ -18,9 +18,6 @@ This repository serves as a "Proof of Work" for my ability to:
 ---
 
 ### 📂 Featured Case Study: The Retention Strategy
-**[📄 View the Presentation (PDF)](**https://github.com/RreMatlabe/RreMatlabe/blob/a7d4b46462bbe19475b520d9c4ada0507c0b326f/Katlego%20Matlabe's%20Career%20Portfolio.pptx)
-
-*Note: Update the link above to match your exact filename!*
 
 **The Challenge:** How do you manage 11,000+ sessions across 4 time zones with zero supervision?
 **The Solution:** I developed a "Trusted Advisor" framework that resulted in:
@@ -30,12 +27,16 @@ This repository serves as a "Proof of Work" for my ability to:
 
 *This deck breaks down the data, the methodology, and the specific "Save Strategies" used to prevent churn.*
 
----
+*   ## 📂 Work Samples
 
-### 🛠️ Technical & Governance Competencies
-*   **Frameworks:** NIST Cybersecurity Framework (CSF), GDPR/POPIA Awareness.
-*   **Tools:** Microsoft Office 365 (Advanced), Google Workspace, SQL (Basic), GitHub (Documentation).
-*   **Soft Skills:** Stakeholder Management, Crisis Communication, Cross-Cultural Training.
+### 🛡️ GRC & Security
+*   [NIST Controls Assessment](GRC_and_Security_Samples/NIST_Controls.pdf)
+*   [Incident Response Report](GRC_and_Security_Samples/Incident_Report.pdf)
+*   [Network Traffic Analysis](GRC_and_Security_Samples/Network_Traffic.pdf)
+
+### 🚀 Client Success & Training
+*   [Strategic Training Deck](https://github.com/RreMatlabe/RreMatlabe/blob/main/Client_Success_and_Training/Katlego%20Matlabe's%20Career%20Portfolio.pdf.pdf)
+*   [Technical Communication Sample](https://github.com/RreMatlabe/RreMatlabe/blob/main/Client_Success_and_Training/Technical_Communication_Sample.pdf.docx.pdf)
 
 ---
 
