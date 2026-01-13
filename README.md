@@ -39,6 +39,14 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ---
 
+### 🚀 Digital Agility & Content Creation
+I leverage AI tools to create scalable training assets and personalized stakeholder communications.
+
+| Project | Tool Stack | The "Win" |
+| :--- | :--- | :--- |
+| **[🎥 Watch: Rapid Training Module](https://youtube.com/shorts/X7va3Rt5AyA)** | **HeyGen + Copilot** | Mastered the platform in **48 hours** to produce a professional educational clip on leadership. |
+| **[👤 Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
+
 ### 📬 Contact Me
 I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Account Manager**, and **Customer Success**.
 
