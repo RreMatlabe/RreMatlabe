@@ -35,8 +35,9 @@ This repository serves as a "Proof of Work" for my ability to:
 *   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
 
 ### 🚀 Client Success & Training
-*   [Strategic Training Deck](https://github.com/RreMatlabe/RreMatlabe/blob/main/Client_Success_and_Training/Katlego%20Matlabe's%20Career%20Portfolio.pdf.pdf)
-*   [Technical Communication Sample](https://github.com/RreMatlabe/RreMatlabe/blob/main/Client_Success_and_Training/Technical_Communication_Sample.pdf.docx.pdf)
+*   [Strategic Training Deck](Client_Success_and_Training/CareerPortfolio.pdf)
+*   [Technical Communication Sample](Client_Success_and_Training/Technical_Communication_Sample.pdf)
+
 
 ---
 
