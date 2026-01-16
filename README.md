@@ -45,9 +45,9 @@ This repository serves as a "Proof of Work" for my ability to:
 
 *   **[📧 Retention Email Sequence](./Consulting_Services/Email_Sequence.md)**
     *   *Strategy:* A 5-part automated drip campaign designed to reduce Time-to-Value (TTV) and drive feature adoption.
-*   **[📚 Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center_Structure.md)**
+*   **[📚 Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center.md)**
     *   *Strategy:* Knowledge base structure featuring a sample **SOC2/GDPR compliance guide** to deflect Tier-1 support tickets.
-*   **[📊 Strategic Kickoff Deck](./Consulting_Services/Kickoff_Deck_Outline.md)**
+*   **[📊 Strategic Kickoff Deck](./Consulting_Services/Kickoff_Deck.md)**
     *   *Strategy:* Executive presentation storyboard for aligning enterprise stakeholders on success metrics and security requirements.
 *   **[❤️ The Empathy Protocol](./Consulting_Services/Empathy_Protocol.md)**
     *   *Strategy:* Internal training module on de-escalation and active listening to improve Net Revenue Retention (NRR).
