@@ -43,7 +43,7 @@ This repository serves as a "Proof of Work" for my ability to:
 ## 🚀 CS Operations & Strategy (Consulting Kit)
 *Scalable frameworks for retention, technical enablement, and customer advocacy.*
 
-*   **[📧 Retention Email Sequence](./Consulting_Services/Email_Sequence_Templates.md)**
+*   **[📧 Retention Email Sequence](./Consulting_Services/Email_Sequence.md)**
     *   *Strategy:* A 5-part automated drip campaign designed to reduce Time-to-Value (TTV) and drive feature adoption.
 *   **[📚 Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center_Structure.md)**
     *   *Strategy:* Knowledge base structure featuring a sample **SOC2/GDPR compliance guide** to deflect Tier-1 support tickets.
