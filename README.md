@@ -40,6 +40,18 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ---
 
+## 🚀 CS Operations & Strategy (Consulting Kit)
+*Scalable frameworks for retention, technical enablement, and customer advocacy.*
+
+*   **[📧 Retention Email Sequence](./Consulting_Services/Email_Sequence_Templates.md)**
+    *   *Strategy:* A 5-part automated drip campaign designed to reduce Time-to-Value (TTV) and drive feature adoption.
+*   **[📚 Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center_Structure.md)**
+    *   *Strategy:* Knowledge base structure featuring a sample **SOC2/GDPR compliance guide** to deflect Tier-1 support tickets.
+*   **[📊 Strategic Kickoff Deck](./Consulting_Services/Kickoff_Deck_Outline.md)**
+    *   *Strategy:* Executive presentation storyboard for aligning enterprise stakeholders on success metrics and security requirements.
+*   **[❤️ The Empathy Protocol](./Consulting_Services/Empathy_Protocol.md)**
+    *   *Strategy:* Internal training module on de-escalation and active listening to improve Net Revenue Retention (NRR).
+
 ### 🚀 Digital Agility & Content Creation
 I leverage AI tools to create scalable training assets and personalized stakeholder communications.
 
@@ -49,7 +61,7 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 | **[👤 Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
 
 ### 📬 Contact Me
-I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Account Manager**, and **Customer Success**.
+I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Manager**, and **Customer Success**.
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
 *   **LinkedIn:** [Katlego Matlabe](https://www.linkedin.com/in/katlego-matlabe-12157715b/)
