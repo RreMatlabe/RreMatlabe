@@ -30,9 +30,9 @@ This repository serves as a "Proof of Work" for my ability to:
 *   ## 📂 Work Samples
 
 ### 🛡️ GRC & Security
-*   [NIST Controls Assessment](GRC_and_Security_Samples/NIST_Controls.pdf)
-*   [Incident Response Report](GRC_and_Security_Samples/Incident_Report.pdf)
-*   [Network Traffic Analysis](GRC_and_Security_Samples/Network_Traffic.pdf)
+*   [NIST Controls Assessment](GRC_and_Security/NIST_Controls_Compliance_Audit.pdf)
+*   [Incident Response Report](GRC_and_Security/Incident_Report_TCP_Flood.pdf)
+*   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
 
 ### 🚀 Client Success & Training
 *   [Strategic Training Deck](https://github.com/RreMatlabe/RreMatlabe/blob/main/Client_Success_and_Training/Katlego%20Matlabe's%20Career%20Portfolio.pdf.pdf)
