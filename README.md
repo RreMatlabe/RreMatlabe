@@ -1,19 +1,31 @@
 # Hi, I'm Katlego Matlabe 👋
-### GRC Analyst | Customer Success Specialist | Governance Graduate
+### Technical Onboarding Specialist | GRC Analyst | Customer Success
 
-**"Bridging the gap between human-centric service and rigid compliance frameworks."**
+**"Bridging the gap between human-centric service and technical compliance."**
 
 ---
 
 ### 🚀 About This Portfolio
-Welcome to my professional repository. While most GitHub profiles showcase code, this repository showcases **Operational Autonomy**, **Risk Documentation**, and **Strategic Account Management**.
+Welcome to my professional repository. While most GitHub profiles showcase code, this repository showcases **Operational Autonomy**, **Risk Documentation**, and **Technical Readiness**.
 
-I am transitioning from a high-volume independent consultancy (managing **5,600+ unique clients** globally) into **Governance, Risk, and Compliance (GRC)**.
+I am transitioning from a high-volume independent consultancy (managing **5,600+ unique clients** globally) into **Technical Operations and GRC**.
 
 This repository serves as a "Proof of Work" for my ability to:
 1.  **Analyze Risk:** Documenting incidents and aligning with NIST frameworks.
 2.  **Retain Clients:** Managing churn and satisfaction at a massive scale.
-3.  **Document Everything:** Using version control and structured reporting for business continuity.
+3.  **Troubleshoot Infrastructure:** Understanding the hardware and network layers that impact user adoption.
+
+---
+
+### 🛠️ Technical Arsenal & Certifications
+*My foundation for bridging the gap between Engineering and Customer Success.*
+
+*   **Networking & Hardware:**
+    *   **Cisco Networking Academy:** Computer Hardware Basics (Layer 1 Troubleshooting).
+    *   **Google Cybersecurity:** Connect and Protect: Networks and Network Security (TCP/IP, Firewalls, VPNs).
+*   **Governance & Risk (GRC):**
+    *   **Google Cybersecurity:** Manage Security Risks (NIST Framework, Security Audits).
+    *   **Status:** 3/8 Courses Completed (Foundations, Risk, Networks).
 
 ---
 
@@ -30,9 +42,17 @@ This repository serves as a "Proof of Work" for my ability to:
 *   ## 📂 Work Samples
 
 ### 🛡️ GRC & Security
+*Proof of my ability to analyze logs, apply the NIST framework, and document technical failures.*
+
 *   [NIST Controls Assessment](GRC_and_Security/NIST_Controls_Compliance_Audit.pdf)
 *   [Incident Response Report](GRC_and_Security/Incident_Report_TCP_Flood.pdf)
 *   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
+*   **[📄 DNS Spoofing & Network Traffic Analysis](./GRC_and_Security/dns-spoofing-analysis.md)**
+    *   *Scope:* Analysis of a cache poisoning attack using Wireshark logs.
+    *   *Skills:* Protocol Analysis (TCP/HTTP/DNS), Log Review.
+*   **[🛡️ DDoS Attack Report (NIST Framework)](./GRC_and_Security/ddos-icmp-flood-report.md)**
+    *   *Scope:* Post-incident report for an ICMP Flood attack.
+    *   *Skills:* NIST CSF Application (Identify, Protect, Detect, Respond, Recover).
 
 ### 🚀 Client Success & Training
 *   [Strategic Training Deck](Client_Success_and_Training/Career%20Portfolio.pdf)
@@ -62,7 +82,7 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 | **[👤 Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
 
 ### 📬 Contact Me
-I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Manager**, and **Customer Success**.
+I am currently open to roles in  **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Manager**, ** Technical Onboarding, and **Customer Success**.
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
 *   **LinkedIn:** [Katlego Matlabe](https://www.linkedin.com/in/katlego-matlabe-12157715b/)
