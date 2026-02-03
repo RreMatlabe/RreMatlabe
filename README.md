@@ -26,6 +26,8 @@ This repository serves as a "Proof of Work" for my ability to:
 *   **Governance & Risk (GRC):**
     *   **Google Cybersecurity:** Manage Security Risks (NIST Framework, Security Audits).
     *   **Status:** 3/8 Courses Completed (Foundations, Risk, Networks).
+*   **Cloud Infrastructure:**
+    *   **Microsoft Azure:** Fundamentals (AZ-900) - *In Progress*
 
 ---
 
@@ -39,7 +41,9 @@ This repository serves as a "Proof of Work" for my ability to:
 
 *This deck breaks down the data, the methodology, and the specific "Save Strategies" used to prevent churn.*
 
-*   ## 📂 Work Samples
+---
+
+## 📂 Work Samples
 
 ### 🛡️ GRC & Security
 *Proof of my ability to analyze logs, apply the NIST framework, and document technical failures.*
@@ -54,10 +58,31 @@ This repository serves as a "Proof of Work" for my ability to:
     *   *Scope:* Post-incident report for an ICMP Flood attack.
     *   *Skills:* NIST CSF Application (Identify, Protect, Detect, Respond, Recover).
 
+### ☁️ Cloud & Infrastructure
+*Practical application of Azure Governance and Cost Management.*
+
+#### **Azure Governance: Resource Locks**
+**Focus:** Risk Management & Infrastructure Stability | **Status:** ✅ Completed
+
+**Scenario:**
+In a production environment, accidental deletion or modification of critical resources (like a database or a virtual network) can cause significant downtime. Relying solely on verbal policy ("Don't touch this") is insufficient for GRC standards.
+
+**The Solution:**
+I configured **Azure Resource Locks** to enforce immutability at the platform level.
+- **Lock Type Applied:** `ReadOnly`
+- **Scope:** Applied to the Resource Group level (inheriting down to all resources within it).
+- **Objective:** Prevent any modification or deletion, even by users with Owner permissions.
+
+**Validation (The "Red Bar" Test):**
+To verify the control was working, I attempted to modify a tag on a locked resource.
+> **Outcome:** The operation failed as expected.
+> *Error Message:* "The scope is locked... preventing the write operation."
+
+**Key Takeaway:** This demonstrates **Technical Governance**. It moves compliance from a "document" to a "hard control."
+
 ### 🚀 Client Success & Training
 *   [Strategic Training Deck](Client_Success_and_Training/Career%20Portfolio.pdf)
 *   [Technical Communication Sample](Client_Success_and_Training/Technical_Communication_Sample.pdf)
-
 
 ---
 
@@ -81,11 +106,11 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 | **[🎥 Watch: Rapid Training Module](https://www.youtube.com/shorts/X7va3Rt5AyA)** | **HeyGen + Copilot** | Mastered the platform in **48 hours** to produce a professional educational clip on leadership. |
 | **[👤 Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
 
+---
+
 ### 📬 Contact Me
-I am currently open to roles in  **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Manager**, ** Technical Onboarding, and **Customer Success**.
+I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Management**, **Technical Onboarding**, and **Customer Success**.
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
 *   **LinkedIn:** [Katlego Matlabe](https://www.linkedin.com/in/katlego-matlabe-12157715b/)
 *   **Email:** katlegoayrton@gmail.com
-
-<!--
