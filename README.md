@@ -59,26 +59,12 @@ This repository serves as a "Proof of Work" for my ability to:
     *   *Skills:* NIST CSF Application (Identify, Protect, Detect, Respond, Recover).
 
 ### ☁️ Cloud & Infrastructure
-*Practical application of Azure Governance and Cost Management.*
+*Practical application of Azure Governance, Security, and Cost Management.*
 
-#### **Azure Governance: Resource Locks**
-**Focus:** Risk Management & Infrastructure Stability | **Status:** ✅ Completed
-
-**Scenario:**
-In a production environment, accidental deletion or modification of critical resources (like a database or a virtual network) can cause significant downtime. Relying solely on verbal policy ("Don't touch this") is insufficient for GRC standards.
-
-**The Solution:**
-I configured **Azure Resource Locks** to enforce immutability at the platform level.
-- **Lock Type Applied:** `ReadOnly`
-- **Scope:** Applied to the Resource Group level (inheriting down to all resources within it).
-- **Objective:** Prevent any modification or deletion, even by users with Owner permissions.
-
-**Validation (The "Red Bar" Test):**
-To verify the control was working, I attempted to modify a tag on a locked resource.
-> **Outcome:** The operation failed as expected.
-> *Error Message:* "The scope is locked... preventing the write operation."
-
-**Key Takeaway:** This demonstrates **Technical Governance**. It moves compliance from a "document" to a "hard control."
+- **[Azure Operations: Governance & Cost Management](./GRC_and_Security/azure_operations.md)**
+  - **Resource Locks:** Configured `ReadOnly` locks to prevent accidental deletion of critical production resources.
+  - **VM Lifecycle:** Deployed Windows Server 2019 to map attack surfaces and configured NSGs for traffic filtering.
+  - **FinOps:** Executed full resource cleanup to demonstrate cost avoidance and prevent "zombie resource" waste.
 
 ### 🚀 Client Success & Training
 *   [Strategic Training Deck](Client_Success_and_Training/Career%20Portfolio.pdf)
@@ -108,6 +94,12 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 
 ---
 
+### 📜 Certifications & Training
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** | *In Progress (Exam Prep)*
+  - **Status:** Completed all 8 core learning paths (Architecture, Governance, Security, Cost Management).
+  - **Validation:** Applied concepts via hands-on labs (VM Deployment, NSG Configuration, Resource Locking).
+ 
+    
 ### 📬 Contact Me
 I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Management**, **Technical Onboarding**, and **Customer Success**.
 
