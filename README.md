@@ -48,6 +48,14 @@ This repository serves as a "Proof of Work" for my ability to:
 ### 🛡️ GRC & Security
 *Proof of my ability to analyze logs, apply the NIST framework, and document technical failures.*
 
+### Linux Security Audit: Principle of Least Privilege    
+     * Scope: Audited directory-level security and remediated unauthorized access for visible and hidden files using chmod.   
+     * Skills: System Administration, Permission String Analysis (rwx), and Security Auditing.
+ 
+### SQL Data Filtering: Investigation & Compliance    
+  * Scope: Leveraged SQL filters to investigate after-hours security incidents and isolate unauthorized login attempts.   
+  * Skills: Data Retrieval (WHERE, LIKE, IN), Logical Operators (AND, OR, NOT), and Pattern Matching.
+
 *   [NIST Controls Assessment](GRC_and_Security/NIST_Controls_Compliance_Audit.pdf)
 *   [Incident Response Report](GRC_and_Security/Incident_Report_TCP_Flood.pdf)
 *   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
@@ -58,6 +66,7 @@ This repository serves as a "Proof of Work" for my ability to:
     *   *Scope:* Post-incident report for an ICMP Flood attack.
     *   *Skills:* NIST CSF Application (Identify, Protect, Detect, Respond, Recover).
 
+ 
 ### ☁️ Cloud & Infrastructure
 *Practical application of Azure Governance, Security, and Cost Management.*
 
