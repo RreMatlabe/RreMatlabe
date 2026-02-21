@@ -1,0 +1,94 @@
+Portfolio: Applying Filters to SQL Queries
+Security Professional Perspective
+
+Project Description
+As a security professional, I investigated login attempts and employee records to identify potential security issues. I used SQL filters to extract relevant data from the log_in_attempts and employees tables, applying logical operators and pattern matching to isolate specific security conditions.
+
+Retrieve After-Hours Failed Login Attempts
+Objective: Identify failed logins that occurred after business hours (after 18:00).   
+
+Query:
+SELECT *
+FROM log_in_attempts
+WHERE login_time > '18:00:00'
+  AND success = 0;
+``` [cite: 97, 98, 99, 100]
+
+**Reflection:** This task reinforced the importance of using valid time formats and Boolean values (**0** for failed attempts)[cite: 102]. It also highlighted how to combine multiple conditions using the **AND** operator[cite: 103].
+
+---
+
+## 2. Retrieve Login Attempts on Specific Dates
+**Objective:** Filter login attempts that occurred on May 8 or May 9, 2022[cite: 106].
+
+**Query:**
+```sql
+SELECT *
+FROM log_in_attempts
+WHERE login_date IN ('2022-05-08', '2022-05-09');
+``` [cite: 109, 110, 111]
+
+**Reflection:** Using the **IN** operator simplified the query, making it much more readable than chaining multiple **OR** conditions[cite: 113].
+
+---
+
+## 3. Retrieve Login Attempts Outside of Mexico
+**Objective:** Exclude login attempts from countries starting with "MEX" (e.g., MEX, MEXICO)[cite: 116].
+
+**Query:**
+```sql
+SELECT *
+FROM log_in_attempts
+WHERE country NOT LIKE 'MEX%';
+``` [cite: 119, 120, 121]
+
+**Reflection:** This task demonstrated how pattern matching with **LIKE** and the **%** wildcard can be used to exclude a range of values based on specific prefixes[cite: 123].
+
+---
+
+## 4. Identify Employees by Building (Pattern Matching)
+**Objective:** Find employees in the Marketing department located in any East building office[cite: 126].
+
+**Query:**
+```sql
+SELECT *
+FROM employees
+WHERE department = 'Marketing'
+  AND office LIKE 'East-%';
+``` [cite: 129, 130, 131, 132]
+
+**Reflection:** Combining **AND** with **LIKE** allows for precise filtering across two different columns[cite: 134]. I also learned that automated graders are sensitive to wildcard placement; for example, using `'South%'` instead of `'South-%'` can be the key to satisfying specific platform requirements[cite: 135, 136].
+
+---
+
+## 5. Retrieve Employees in Finance or Sales
+**Objective:** Locate employees in either the Finance or Sales department[cite: 139].
+
+**Query:**
+```sql
+SELECT employee_id, username, office
+FROM employees
+WHERE department = 'Finance'
+   OR department = 'Sales';
+``` [cite: 142, 143, 144, 145]
+
+**Reflection:** This task emphasized that when using the **OR** operator, you must repeat the column name (`department`) for each condition to satisfy the SQL syntax required by the grader[cite: 147].
+
+---
+
+## 6. Retrieve All Employees Not in IT
+**Objective:** Exclude employees from the Information Technology department[cite: 40].
+
+**Query:**
+```sql
+SELECT *
+FROM employees
+WHERE NOT department = 'Information Technology';
+``` [cite: 151, 152, 153]
+
+**Reflection:** This task taught me that the **NOT** operator must wrap a full condition to satisfy specific grader expectations, even though there are multiple valid ways to write an exclusion query in SQL[cite: 154]. It highlighted the importance of adapting syntax to meet platform-specific requirements while maintaining logical accuracy[cite: 155].
+
+---
+
+## Summary
+Through these tasks, I practiced using SQL filters including **WHERE, AND, OR, IN, LIKE,** and **NOT**[cite: 157]. Beyond the syntax, I learned to troubleshoot grader feedback, refine pattern matching, and adapt to platform-specific quirks to ensure 100% accuracy in data retrieval[cite: 158].
