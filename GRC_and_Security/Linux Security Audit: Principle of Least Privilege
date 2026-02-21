@@ -1,0 +1,50 @@
+Portfolio: Managing File Permissions in Linux
+Security Professional Perspective
+
+Project Description
+In this investigation, I examined and managed file permissions within a Linux environment to ensure data integrity and confidentiality. The primary objective was to audit the directory for unauthorized access and apply the principle of least privilege by removing unnecessary write and execute permissions from both visible and hidden files.
+1. Auditing Initial Permissions
+
+Objective: Audit the projects and drafts directories to identify security vulnerabilities in the existing permission strings.   
+
+Commands Used:
+ls -l projects    # List visible file permissions [cite: 166]
+ls -la projects   # List all files, including hidden (.project_x.txt) [cite: 167]
+ls -ld drafts     # View directory-level permissions for 'drafts' [cite: 168]
+
+Initial State Analysis:
+File/DirectoryPermission StringUserGroupOthersproject_k.txt-rw-rw-rw-Read/WriteRead/WriteRead/Write (Vulnerability) project_m.txt-rw-r-----Read/WriteReadNone .project_x.txt-rw-rw----Read/WriteWriteNone drafts/ (dir)drwx--x---Read/Write/ExecuteExecuteNone 
+
+2. Remediating Unauthorized Access
+
+Objective: Modify permissions using the chmod command to secure sensitive files and directories.   
+
+Task: Secure Standard Files
+Removed global write access for others on project_k.txt and restricted group access on project_m.txt.
+chmod o-w project_k.txt    # Removed write for others [cite: 176]
+chmod g-rw project_m.txt   # Removed group read/write [cite: 177]
+
+Task: Secure Hidden Files
+Updated the hidden file .project_x.txt to ensure it remained read-only for both the user and the group.
+chmod u-w .project_x.txt   # Removed user write [cite: 180]
+chmod g-w .project_x.txt   # Removed group write [cite: 181]
+chmod g+r .project_x.txt   # Ensured group read [cite: 182]
+
+Task: Secure Directory Access
+Restricted the drafts directory so that only the owner has access, removing execute permissions for the group and others.
+chmod go-rx drafts         # Removed group and others read/execute [cite: 74]
+
+3. Verification & Results
+
+Objective: Confirm that all changes were applied correctly and that no unauthorized access remained.   
+Verification Commands:
+ls -l [filename] [cite: 186]
+ls -ld drafts [cite: 187]
+
+Post-Remediation Strings:
+
+.project_x.txt: -r--r-----    
+drafts/: drwx------
+
+Reflection
+This lab reinforced the critical importance of accurately interpreting the 10-character permission string. I learned to distinguish between file and directory permissions—specifically that the x bit on a directory controls the ability to enter it rather than execute a file. I also practiced troubleshooting common terminal errors, such as "No such file or directory," which highlighted the need for precision in pathing and filename casing. By systematically auditing and correcting these permissions, I successfully applied the principle of least privilege to the environment.
