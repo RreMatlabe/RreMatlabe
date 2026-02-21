@@ -56,6 +56,8 @@ This repository serves as a "Proof of Work" for my ability to:
   * Scope: Leveraged SQL filters to investigate after-hours security incidents and isolate unauthorized login attempts.   
   * Skills: Data Retrieval (WHERE, LIKE, IN), Logical Operators (AND, OR, NOT), and Pattern Matching.
 
+### 📄 Case Studies & Incident Reports
+
 *   [NIST Controls Assessment](GRC_and_Security/NIST_Controls_Compliance_Audit.pdf)
 *   [Incident Response Report](GRC_and_Security/Incident_Report_TCP_Flood.pdf)
 *   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
