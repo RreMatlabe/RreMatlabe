@@ -25,21 +25,28 @@ This repository serves as a "Proof of Work" for my ability to:
     *   **Google Cybersecurity:** Connect and Protect: Networks and Network Security (TCP/IP, Firewalls, VPNs).
 *   **Governance & Risk (GRC):**
     *   **Google Cybersecurity:** Manage Security Risks (NIST Framework, Security Audits).
-    *   **Status:** 3/8 Courses Completed (Foundations, Risk, Networks).
+    *   **Status:** 4/8 Courses Completed (Foundations, Risk, Networks, Linux and SQL Database).
 *   **Cloud Infrastructure:**
     *   **Microsoft Azure:** Fundamentals (AZ-900) - *In Progress*
 
 ---
 
-### 📂 Featured Case Study: The Retention Strategy
+### 📂 Featured Case Study: 
 
-**The Challenge:** How do you manage 11,000+ sessions across 4 time zones with zero supervision?
-**The Solution:** I developed a "Trusted Advisor" framework that resulted in:
-*   **5,619** Unique Accounts Managed.
-*   **4-Year** Retention on top-tier accounts.
-*   **99%** Reliability rating over 5,000+ service hours.
+🛡️ Case Study: Exploiting the Human Firewall
 
-*This deck breaks down the data, the methodology, and the specific "Save Strategies" used to prevent churn.*
+Scope: A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
+Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills.
+
+🤖 AI Governance: The Synthetic Governance Protocol
+
+Scope: Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
+Frameworks: NIST AI RMF, NIST SP 800-53, C2PA (Content Provenance and Authenticity).
+Skills: AI Safety, Cryptographic Identity Verification, Policy Layering, Threat Modeling.
+
+📈 The Retention Strategy: 5,600+ Client Management
+The Solution: Developed a "Trusted Advisor" framework managing 11,000+ sessions across 4 time zones.
+Result: 99% Reliability rating over 5,000+ service hours and 4-year retention on top-tier accounts.
 
 ---
 
