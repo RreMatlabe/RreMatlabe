@@ -5,7 +5,7 @@
 
 ---
 
-### 🚀 About This Portfolio
+### About This Portfolio
 Welcome to my professional repository. While most GitHub profiles showcase code, this repository showcases **Operational Autonomy**, **Risk Documentation**, and **Technical Readiness**.
 
 I am transitioning from a high-volume independent consultancy (managing **5,600+ unique clients** globally) into **Technical Operations and GRC**.
@@ -17,7 +17,7 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ---
 
-### 🛠️ Technical Arsenal & Certifications
+### Technical Arsenal & Certifications
 *My foundation for bridging the gap between Engineering and Customer Success.*
 
 *   **Networking & Hardware:**
@@ -31,28 +31,31 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ---
 
-### 📂 Featured Case Study: 
+### 📂 Featured Case Studies
 
-🛡️ Case Study: Exploiting the Human Firewall
+#### [Case Study: The Commodification of South Africa's Immigration System](A GRC, CIA Triad & NIST CSF Analysis.md)
+* **Scope:** A 20-year forensic analysis of systemic corruption at the Department of Home Affairs (DHA).
+* **Frameworks:** NIST CSF (Identify, Protect, Detect, Respond, Recover), CIA Triad, Institutional GRC.
+* **The "Win":** Framed institutional corruption as a **"Human Zero-Day Exploit"** and proposed digital "patching" via the Electronic Travel Authorisation (ETA) system.
 
-Scope: A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
-Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills.
+#### [Exploiting the Human Firewall: Familial Social Engineering](Analyzing Familial Social Engineering as an Insider Threat.md)
+* **Scope:** A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
+* **The "Win":** Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills and "out-of-the-box" security thinking.
 
-🤖 AI Governance: The Synthetic Governance Protocol
+#### [AI Governance: The Synthetic Governance Protocol](Governance_policy.md)
+* **Scope:** Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
+* **Frameworks:** NIST AI RMF, NIST SP 800-53, C2PA (Content Provenance and Authenticity).
+* **Skills:** AI Safety, Cryptographic Identity Verification, Policy Layering, Threat Modeling for Autonomous Systems.
 
-Scope: Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
-Frameworks: NIST AI RMF, NIST SP 800-53, C2PA (Content Provenance and Authenticity).
-Skills: AI Safety, Cryptographic Identity Verification, Policy Layering, Threat Modeling.
-
-📈 The Retention Strategy: 5,600+ Client Management
-The Solution: Developed a "Trusted Advisor" framework managing 11,000+ sessions across 4 time zones.
-Result: 99% Reliability rating over 5,000+ service hours and 4-year retention on top-tier accounts.
+#### [The Retention Strategy: 5,600+ Client Management](Client_Success_and_Training)
+* **The Challenge:** Managing 11,000+ sessions across 4 time zones with zero supervision.
+* **The Solution:** Developed a "Trusted Advisor" framework that resulted in a **99% Reliability rating** over 5,000+ service hours and **4-year retention** on top-tier accounts.
 
 ---
 
 ## 📂 Work Samples
 
-### 🛡️ GRC & Security
+### GRC & Security
 *Proof of my ability to analyze logs, apply the NIST framework, and document technical failures.*
 
 ### Linux Security Audit: Principle of Least Privilege    
@@ -68,15 +71,15 @@ Result: 99% Reliability rating over 5,000+ service hours and 4-year retention on
 *   [NIST Controls Assessment](GRC_and_Security/NIST_Controls_Compliance_Audit.pdf)
 *   [Incident Response Report](GRC_and_Security/Incident_Report_TCP_Flood.pdf)
 *   [Network Traffic Analysis](GRC_and_Security/Network_Traffic.pdf)
-*   **[📄 DNS Spoofing & Network Traffic Analysis](./GRC_and_Security/dns-spoofing-analysis.md)**
+*   **[DNS Spoofing & Network Traffic Analysis](./GRC_and_Security/dns-spoofing-analysis.md)**
     *   *Scope:* Analysis of a cache poisoning attack using Wireshark logs.
     *   *Skills:* Protocol Analysis (TCP/HTTP/DNS), Log Review.
-*   **[🛡️ DDoS Attack Report (NIST Framework)](./GRC_and_Security/ddos-icmp-flood-report.md)**
+*   **[DDoS Attack Report (NIST Framework)](./GRC_and_Security/ddos-icmp-flood-report.md)**
     *   *Scope:* Post-incident report for an ICMP Flood attack.
     *   *Skills:* NIST CSF Application (Identify, Protect, Detect, Respond, Recover).
 
  
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 *Practical application of Azure Governance, Security, and Cost Management.*
 
 - **[Azure Operations: Governance & Cost Management](./GRC_and_Security/azure_operations.md)**
@@ -84,41 +87,41 @@ Result: 99% Reliability rating over 5,000+ service hours and 4-year retention on
   - **VM Lifecycle:** Deployed Windows Server 2019 to map attack surfaces and configured NSGs for traffic filtering.
   - **FinOps:** Executed full resource cleanup to demonstrate cost avoidance and prevent "zombie resource" waste.
 
-### 🚀 Client Success & Training
+### Client Success & Training
 *   [Strategic Training Deck](Client_Success_and_Training/Career%20Portfolio.pdf)
 *   [Technical Communication Sample](Client_Success_and_Training/Technical_Communication_Sample.pdf)
 
 ---
 
-## 🚀 CS Operations & Strategy (Consulting Kit)
+## CS Operations & Strategy (Consulting Kit)
 *Scalable frameworks for retention, technical enablement, and customer advocacy.*
 
-*   **[📧 Retention Email Sequence](./Consulting_Services/Email_Sequence.md)**
+*   **[Retention Email Sequence](./Consulting_Services/Email_Sequence.md)**
     *   *Strategy:* A 5-part automated drip campaign designed to reduce Time-to-Value (TTV) and drive feature adoption.
-*   **[📚 Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center.md)**
+*   **[Help Center Architecture (GRC Focus)](./Consulting_Services/Help_Center.md)**
     *   *Strategy:* Knowledge base structure featuring a sample **SOC2/GDPR compliance guide** to deflect Tier-1 support tickets.
-*   **[📊 Strategic Kickoff Deck](./Consulting_Services/Kickoff_Deck.md)**
+*   **[Strategic Kickoff Deck](./Consulting_Services/Kickoff_Deck.md)**
     *   *Strategy:* Executive presentation storyboard for aligning enterprise stakeholders on success metrics and security requirements.
-*   **[❤️ The Empathy Protocol](./Consulting_Services/Empathy_Protocol.md)**
+*   **[The Empathy Protocol](./Consulting_Services/Empathy_Protocol.md)**
     *   *Strategy:* Internal training module on de-escalation and active listening to improve Net Revenue Retention (NRR).
 
-### 🚀 Digital Agility & Content Creation
+### Digital Agility & Content Creation
 I leverage AI tools to create scalable training assets and personalized stakeholder communications.
 
 | Project | Tool Stack | The "Win" |
 | :--- | :--- | :--- |
-| **[🎥 Watch: Rapid Training Module](https://www.youtube.com/shorts/X7va3Rt5AyA)** | **HeyGen + Copilot** | Mastered the platform in **48 hours** to produce a professional educational clip on leadership. |
-| **[👤 Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
+| **[Watch: Rapid Training Module](https://www.youtube.com/shorts/X7va3Rt5AyA)** | **HeyGen + Copilot** | Mastered the platform in **48 hours** to produce a professional educational clip on leadership. |
+| **[Watch: AI Digital Twin](https://youtube.com/shorts/3JFiiuhej0M)** | **ChatGPT (Avatar) + HeyGen (Voice)** | Created a custom avatar and cloned voice model to demonstrate **scalable personalized messaging** for client outreach. |
 
 ---
 
-### 📜 Certifications & Training
+### Certifications & Training
 - **Microsoft Certified: Azure Fundamentals (AZ-900)** | *In Progress (Exam Prep)*
   - **Status:** Completed all 8 core learning paths (Architecture, Governance, Security, Cost Management).
   - **Validation:** Applied concepts via hands-on labs (VM Deployment, NSG Configuration, Resource Locking).
  
     
-### 📬 Contact Me
+### Contact Me
 I am currently open to roles in **Junior GRC Analysis**, **Vendor Risk Management**, **Strategic Account Management**, **Technical Onboarding**, and **Customer Success**.
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
