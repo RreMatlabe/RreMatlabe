@@ -33,12 +33,12 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ### 📂 Featured Case Studies
 
-#### [Case Study: The Commodification of South Africa's Immigration System]
+#### [Case Study: The Commodification of South Africa's Immigration System](A GRC, CIA Triad & NIST CSF Analysis.md)
 * **Scope:** A 20-year forensic analysis of systemic corruption at the Department of Home Affairs (DHA).
 * **Frameworks:** NIST CSF (Identify, Protect, Detect, Respond, Recover), CIA Triad, Institutional GRC.
 * **The "Win":** Framed institutional corruption as a **"Human Zero-Day Exploit"** and proposed digital "patching" via the Electronic Travel Authorisation (ETA) system.
 
-#### [Case-Study-Exploiting-the-Human-Firewall]
+#### [Case-Study-Exploiting-the-Human-Firewall](Analyzing Familial Social Engineering as an Insider Threat.md)
 * **Scope:** A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
 * **The "Win":** Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills and "out-of-the-box" security thinking.
 
