@@ -33,23 +33,28 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ### 📂 Featured Case Studies
 
-#### [Case Study: The Commodification of South Africa's Immigration System](A GRC, CIA Triad & NIST CSF Analysis.md)
+#### [Case Study: The Commodification of South Africa's Immigration System][immigration]
 * **Scope:** A 20-year forensic analysis of systemic corruption at the Department of Home Affairs (DHA).
-* **Frameworks:** NIST CSF (Identify, Protect, Detect, Respond, Recover), CIA Triad, Institutional GRC.
-* **The "Win":** Framed institutional corruption as a **"Human Zero-Day Exploit"** and proposed digital "patching" via the Electronic Travel Authorisation (ETA) system.
+* **Frameworks:** NIST CSF, CIA Triad, Institutional GRC.
+* **The Win:** Framed institutional corruption as a **"Human Zero-Day Exploit"**.
 
-#### [Case-Study-Exploiting-the-Human-Firewall](Analyzing Familial Social Engineering as an Insider Threat.md)
-* **Scope:** A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
-* **The "Win":** Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills and "out-of-the-box" security thinking.
+#### [Case Study: Exploiting the Human Firewall][human-firewall]
+* **Scope:** Behavioral analysis of a "Supply Chain Attack" via familial social engineering.
+* **The Win:** Applied NIST CSF principles to non-traditional threat actors.
 
-#### [AI-Governance-Case-Study]
+#### 🤖 [AI Governance: The Synthetic Governance Protocol][ai-governance]
 * **Scope:** Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
-* **Frameworks:** NIST AI RMF, NIST SP 800-53, C2PA (Content Provenance and Authenticity).
-* **Skills:** AI Safety, Cryptographic Identity Verification, Policy Layering, Threat Modeling for Autonomous Systems.
 
 #### [The Retention Strategy: 5,600+ Client Management](Client_Success_and_Training)
 * **The Challenge:** Managing 11,000+ sessions across 4 time zones with zero supervision.
 * **The Solution:** Developed a "Trusted Advisor" framework that resulted in a **99% Reliability rating** over 5,000+ service hours and **4-year retention** on top-tier accounts.
+---
+
+<!-- Reference Links -->
+[immigration]: https://github.com/RreMatlabe/Case-Study-The-Commodification-of-South-Africa-s-Immigration-System/blob/main/A%20GRC%2C%20CIA%20Triad%20%26%20NIST%20CSF%20Analysis.md
+[human-firewall]: https://github.com/RreMatlabe/Case-Study-Exploiting-the-Human-Firewall/blob/main/Subject%3A%20Analyzing%20Familial%20Social%20Engineering%20as%20an%20Insider%20Threat.md
+[ai-governance]: https://github.com/RreMatlabe/AI-Governance-Case-Study
+[retention]: https://github.com/RreMatlabe/RreMatlabe/tree/main/Client_Success_and_Training
 
 ---
 
@@ -58,13 +63,13 @@ This repository serves as a "Proof of Work" for my ability to:
 ### GRC & Security
 *Proof of my ability to analyze logs, apply the NIST framework, and document technical failures.*
 
-### Linux Security Audit: Principle of Least Privilege    
-     * Scope: Audited directory-level security and remediated unauthorized access for visible and hidden files using chmod.   
-     * Skills: System Administration, Permission String Analysis (rwx), and Security Auditing.
+#### Linux Security Audit: Principle of Least Privilege
+* **Scope:** Audited directory-level security and remediated unauthorized access for visible and hidden files using `chmod`.
+* **Skills:** System Administration, Permission String Analysis (rwx), and Security Auditing.
  
-### SQL Data Filtering: Investigation & Compliance    
-  * Scope: Leveraged SQL filters to investigate after-hours security incidents and isolate unauthorized login attempts.   
-  * Skills: Data Retrieval (WHERE, LIKE, IN), Logical Operators (AND, OR, NOT), and Pattern Matching.
+#### SQL Data Filtering: Investigation & Compliance
+* **Scope:** Leveraged SQL filters to investigate after-hours security incidents and isolate unauthorized login attempts.
+* **Skills:** Data Retrieval (`WHERE`, `LIKE`, `IN`), Logical Operators (`AND`, `OR`, `NOT`), and Pattern Matching.
 
 ### 📄 Case Studies & Incident Reports
 
