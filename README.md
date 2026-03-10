@@ -33,16 +33,16 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ### 📂 Featured Case Studies
 
-#### [Case Study: The Commodification of South Africa's Immigration System](A GRC, CIA Triad & NIST CSF Analysis.md)
+#### [Case Study: The Commodification of South Africa's Immigration System]
 * **Scope:** A 20-year forensic analysis of systemic corruption at the Department of Home Affairs (DHA).
 * **Frameworks:** NIST CSF (Identify, Protect, Detect, Respond, Recover), CIA Triad, Institutional GRC.
 * **The "Win":** Framed institutional corruption as a **"Human Zero-Day Exploit"** and proposed digital "patching" via the Electronic Travel Authorisation (ETA) system.
 
-#### [Exploiting the Human Firewall: Familial Social Engineering](Analyzing Familial Social Engineering as an Insider Threat.md)
+#### [Case-Study-Exploiting-the-Human-Firewall]
 * **Scope:** A deep-dive behavioral analysis of a "Supply Chain Attack" executed via familial social engineering.
 * **The "Win":** Applied NIST CSF principles to non-traditional threat actors, demonstrating advanced risk assessment skills and "out-of-the-box" security thinking.
 
-#### [AI Governance: The Synthetic Governance Protocol](Governance_policy.md)
+#### [AI-Governance-Case-Study]
 * **Scope:** Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
 * **Frameworks:** NIST AI RMF, NIST SP 800-53, C2PA (Content Provenance and Authenticity).
 * **Skills:** AI Safety, Cryptographic Identity Verification, Policy Layering, Threat Modeling for Autonomous Systems.
