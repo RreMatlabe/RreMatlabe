@@ -26,11 +26,12 @@ This repository serves as a "Proof of Work" for my ability to:
 *   **Governance & Risk (GRC):**
     *   **Google Cybersecurity:** Manage Security Risks (NIST Framework, Security Audits).
     *   **Status:** 4/8 Courses Completed (Foundations, Risk, Networks, Linux and SQL Database).
-*   **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning**
-        *   Completed Apr 27, 2026 · 6hr 8min
-        *   Skills: Cybersecurity, Information Security Awareness, Threat & Vulnerability Management        
 *   **Cloud Infrastructure:**
-    *   **Microsoft Certified: Azure Fundamentals (AZ-900)** ✓ *Certified
+    *   **Microsoft Certified: Azure Fundamentals (AZ-900)** ✓ — Certified
+*   **Cybersecurity Foundations:**
+    *   **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning**
+        *   Completed: Apr 27, 2026 · 6hr 8min
+        *   Skills: Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
 
 ---
 
@@ -127,11 +128,10 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Status:** Completed all 8 core learning paths (Architecture, Governance, Security, Cost Management).
   - **Validation:** Applied concepts via hands-on labs (VM Deployment, NSG Configuration, Resource Locking).
- 
+
 - **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning**
-  - Completed: April 27, 2026
-  - Skills: Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
- 
+  - **Completed:** April 27, 2026
+  - **Skills:** Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
     
 ### Contact Me
 I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Strategic Account Management**, **Technical Onboarding**, and **Security Operation Center Analyst**.
