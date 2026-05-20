@@ -1,5 +1,5 @@
 # Hi, I'm Katlego Matlabe 👋
-### Technical Onboarding Specialist | GRC Analyst | Customer Success
+### Technical Onboarding Specialist | GRC Analyst | SOC Anaylst
 
 **"Bridging the gap between human-centric service and technical compliance."**
 
@@ -28,6 +28,9 @@ This repository serves as a "Proof of Work" for my ability to:
     *   **Status:** 4/8 Courses Completed (Foundations, Risk, Networks, Linux and SQL Database).
 *   **Cloud Infrastructure:**
     *   **Microsoft Certified: Azure Fundamentals (AZ-900)** ✓ — Certified
+*   **Network Security:**
+    *   **Fortinet Certified Associate — Cybersecurity** ✓ — NSE 3: FortiGate 7.6 Operator (Expires May 2028)
+    *   **Fortinet Certified Fundamentals — Cybersecurity** ✓ — NSE 1 & 2 (Expires May 2028)
 *   **Cybersecurity Foundations:**
     *   **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning**
         *   Completed: Apr 27, 2026 · 6hr 8min
@@ -38,16 +41,20 @@ This repository serves as a "Proof of Work" for my ability to:
 ### 📂 Featured Case Studies
 
 #### [Case Study: The Commodification of South Africa's Immigration System][immigration]
-* **Scope:** A 20-year forensic analysis of systemic corruption at the Department of Home Affairs (DHA).
+* **Scope:** A forensic GRC analysis of systemic corruption at the Department of Home Affairs, framed through the CIA Triad and NIST CSF.
+* **Structure:** Executive Summary · Incident Timeline & Key Facts · Threat Actor Taxonomy · CIA Triad Analysis · NIST CSF Analysis · GRC Failure Analysis
 * **Frameworks:** NIST CSF, CIA Triad, Institutional GRC.
-* **The Win:** Framed institutional corruption as a **"Human Zero-Day Exploit"**.
+* **The Win:** Framed institutional corruption as a **"Human Zero-Day Exploit"** — treating policy failure as a security vulnerability.
 
 #### [Case Study: Exploiting the Human Firewall][human-firewall]
-* **Scope:** Behavioral analysis of a "Supply Chain Attack" via familial social engineering.
-* **The Win:** Applied NIST CSF principles to non-traditional threat actors.
+* **Scope:** Behavioral analysis of a real-world financial fraud operation through the lens of a Supply Chain Attack, where a malicious insider leveraged familial trust to bypass skepticism firewalls.
+* **Key Concepts:** Layer 8 (The Human Layer), Insider Threat, Privilege Escalation via Social Engineering, Zero-Trust failure.
+* **The Win:** Mapped a non-technical attack lifecycle — Initial Access Vector (pre-existing trust) through to lateral movement and financial exfiltration.
 
 #### 🤖 [AI Governance: The Synthetic Governance Protocol][ai-governance]
-* **Scope:** Risk assessment of autonomous agent ecosystems focusing on "Social Drift" and "Synthetic Evidence."
+* **Scope:** Risk assessment of autonomous agent ecosystems focusing on "Social Drift," "Hallucinated Consensus," and "Synthetic Evidence."
+* **Frameworks:** NIST SI-7, C2PA Cryptographic Provenance Standards.
+* **The Win:** Designed a NIST-compliant governance framework for a threat surface that most organisations have not yet mapped.
 
 #### [The Retention Strategy: 5,600+ Client Management](Client_Success_and_Training)
 * **The Challenge:** Managing 11,000+ sessions across 4 time zones with zero supervision.
@@ -125,6 +132,15 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 ---
 
 ### Certifications & Training
+
+- **Fortinet Certified Associate — Cybersecurity (NSE 3: FortiGate 7.6 Operator)**
+  - **Issued:** May 19, 2026  ·  **Expires:** May 19, 2028
+  - **Skills:** FortiGate Operations, Network Security Management, Fortinet Security Fabric
+
+- **Fortinet Certified Fundamentals — Cybersecurity (NSE 1 & 2)**
+  - **Issued:** May 12–13, 2026  ·  **Expires:** May 19, 2028
+  - **Courses:** Getting Started in Cybersecurity 3.0, Introduction to the Threat Landscape 3.0, Technical Introduction to Cybersecurity 3.0
+    
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Status:** Completed all 8 core learning paths (Architecture, Governance, Security, Cost Management).
   - **Validation:** Applied concepts via hands-on labs (VM Deployment, NSG Configuration, Resource Locking).
@@ -134,7 +150,8 @@ I leverage AI tools to create scalable training assets and personalized stakehol
   - **Skills:** Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
     
 ### Contact Me
-I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Strategic Account Management**, **Technical Onboarding**, and **Security Operation Center Analyst**.
+I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Security Operation Center Analyst**, **IT Support Specialist**, and **Technical Onboarding Specialist**.
+
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
 *   **LinkedIn:** [Katlego Matlabe](https://www.linkedin.com/in/katlego-matlabe-12157715b/)
