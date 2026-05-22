@@ -1,5 +1,5 @@
 # Hi, I'm Katlego Matlabe 👋
-### Technical Onboarding Specialist | GRC Analyst | SOC Anaylst
+### Technical Onboarding Specialist | GRC Analyst | Security Operation Center Analyst | Junior Azure Administrator | IT Support Specialist | Service Desk Analyst
 
 **"Bridging the gap between human-centric service and technical compliance."**
 
@@ -150,7 +150,7 @@ I leverage AI tools to create scalable training assets and personalized stakehol
   - **Skills:** Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
     
 ### Contact Me
-I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Security Operation Center Analyst**, **IT Support Specialist**, and **Technical Onboarding Specialist**.
+I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Security Operation Center Analyst**, **IT Support Specialist**, **Junior Azure Administrator**, **Service Desk Analyst**, and **Technical Onboarding Specialist**.
 
 
 *   **Location:** Pretoria, South Africa (Remote Ready)
