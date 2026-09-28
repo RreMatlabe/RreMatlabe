@@ -1,5 +1,5 @@
 # Hi, I'm Katlego Matlabe 👋
-### Technical Onboarding Specialist | GRC Analyst | Security Operation Center Analyst | Junior Azure Administrator | IT Support Specialist | Service Desk Analyst
+### Junior GRC Analyst | SOC Analyst | IT Support Specialist | Founder, Kat Web Hub
 
 **"Bridging the gap between human-centric service and technical compliance."**
 
@@ -8,7 +8,7 @@
 ### About This Portfolio
 Welcome to my professional repository. While most GitHub profiles showcase code, this repository showcases **Operational Autonomy**, **Risk Documentation**, and **Technical Readiness**.
 
-I am transitioning from a high-volume independent consultancy (managing **5,680 unique clients** globally across **11,263 sessions**) into **Technical Operations, IT Support, and GRC**.
+I am transitioning from a high-volume independent consultancy (managing **6054 unique clients** globally across **12,703 sessions**) into **Technical Operations, IT Support, and GRC**.
 
 This repository serves as a "Proof of Work" for my ability to:
 1. **Analyze Risk:** Documenting incidents and aligning with NIST frameworks.
@@ -19,7 +19,7 @@ This repository serves as a "Proof of Work" for my ability to:
 
 ---
 
-### Technical Arsenal & Certifications
+### ### Technical Arsenal & Certifications
 *My foundation for bridging the gap between Engineering, IT Support, and Security.*
 
 *   **IT Support & ITSM:**
@@ -34,6 +34,16 @@ This repository serves as a "Proof of Work" for my ability to:
     *   **Cisco Networking Academy:** Computer Hardware Basics ✓ — Layer 1 Troubleshooting (Jul 2025)
     *   **Google Cybersecurity:** Connect and Protect: Networks and Network Security (TCP/IP, Firewalls, VPNs).
 
+*   **Security Operations:**
+    *   **Microsoft Certified: Security Operations Analyst Associate (SC-200)** ✓ — Certified
+        *   Validates skills in threat detection, investigation, and response across Microsoft Defender for Endpoint, Defender XDR, and Microsoft Sentinel.
+        *   Hands-on: configuration work in Microsoft Defender for Endpoint and Defender XDR during coursework.
+    *   **KC7 Security Analyst I** ✓ — 7/7 modules complete, badge earned (~21 hours)
+        *   Hands-on investigation labs covering phishing and malvertising detection, tracing unauthorized network access, and analyzing ransomware activity.
+        *   Modules included VirusTotal Fundamentals, KQL 101 (Kusto Query Language), and the closing case, **JoJo's Hospital: A Ransomware Investigation**, which traces an Initial Access Broker handing off to a Ransomware-as-a-Service operation.
+        *   Skills: KQL log querying, alert triage, indicator analysis, attack chain reconstruction.
+        *   The final module was the hardest. I got properly stuck finding the right KQL query, and working through that taught me more about thinking like an analyst than any earlier module.
+
 *   **Network Security (Hands-On):**
     *   **Fortinet Certified Associate — Cybersecurity** ✓ — NSE 3: FortiGate 7.6 Operator (Expires May 2028)
         *   Hands-on: FortiGate firewall configuration, security policy management, Fortinet Security Fabric
@@ -43,17 +53,20 @@ This repository serves as a "Proof of Work" for my ability to:
 *   **Cloud Infrastructure:**
     *   **Microsoft Certified: Azure Fundamentals (AZ-900)** ✓ — Certified
         *   Hands-on labs: VM Deployment, NSG Configuration, Resource Locking, FinOps cleanup
-        *   Next: AZ-104 Azure Administrator Applied Skills (In Progress)
 
 *   **Governance & Risk (GRC):**
     *   **Google Cybersecurity:** Manage Security Risks (NIST Framework, Security Audits).
     *   **Status:** 4/8 Courses Completed (Foundations, Risk, Networks, Linux and SQL Database).
 
+*   **Programming:**
+    *   **Python Masterclass — FNB App Academy (in partnership with the University of Johannesburg)** ✓ — Completed
+        *   Full curriculum covering functions, error handling, file handling, and basic object-oriented programming.
+        *   Current level: pre-intermediate, applied to small scripts and lab tooling.
+
 *   **Cybersecurity Foundations:**
     *   **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning** ✓
         *   Completed: Apr 27, 2026 · 6hr 8min
         *   Skills: Cybersecurity, Information Security Awareness, Threat & Vulnerability Management
-
 ---
 
 ### 📂 Featured Case Studies
@@ -78,8 +91,8 @@ This repository serves as a "Proof of Work" for my ability to:
 * **Frameworks:** NIST RMF, NIST AI RMF, NIST SP 800-53, C2PA
 * **Status:** Active
 
-#### [The Retention Strategy: 5,600+ Client Management](Client_Success_and_Training)
-* **The Challenge:** Managing 11,263 sessions across 4 time zones with zero supervision.
+#### [The Retention Strategy: 6054 Client Management](Client_Success_and_Training)
+* **The Challenge:** Managing 12,703 sessions across 4 time zones with zero supervision.
 * **The Solution:** Developed a "Trusted Advisor" framework that resulted in a **99% Reliability rating** over 5,000+ service hours and **4-year retention** on top-tier accounts.
 
 ---
@@ -153,7 +166,12 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 
 ---
 
-### Certifications & Training
+### ## Certifications & Training
+
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
+  - **Status:** Certified
+  - **Validates:** Threat detection, investigation, and response across Microsoft Defender for Endpoint, Defender XDR, and Microsoft Sentinel
+  - **Hands-on:** Configuration work in Microsoft Defender for Endpoint and Defender XDR during coursework
 
 - **Fortinet Certified Associate — Cybersecurity (NSE 3: FortiGate 7.6 Operator)**
   - **Issued:** May 19, 2026  ·  **Expires:** May 19, 2028
@@ -166,6 +184,15 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
   - **Status:** Completed all 8 core learning paths (Architecture, Governance, Security, Cost Management).
   - **Validation:** Applied concepts via hands-on labs (VM Deployment, NSG Configuration, Resource Locking).
+
+- **KC7 Security Analyst I**
+  - **Status:** Complete — 7/7 modules, badge earned (~21 hours)
+  - **Modules:** A Rap Beef: An Intro to Security Investigations · How to Play KC7 · CloutHaus: Social Media Leads to Compromise · A Scandal in Valdoria: A Political Mystery · VirusTotal Fundamentals · KQL 101 · JoJo's Hospital: A Ransomware Investigation
+  - **Skills:** KQL log querying, alert triage, phishing and malvertising detection, tracing unauthorized network access, ransomware investigation
+
+- **Python Masterclass — FNB App Academy (in partnership with the University of Johannesburg)**
+  - **Status:** Completed
+  - **Skills:** Functions, error handling, file handling, basic object-oriented programming (pre-intermediate level)
 
 - **Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning**
   - **Completed:** April 27, 2026
@@ -186,8 +213,8 @@ I leverage AI tools to create scalable training assets and personalized stakehol
 ---
 
 ### Contact Me
-I am currently open to roles in **Junior GRC Analyst**, **Vendor Risk Management**, **Security Operation Center Analyst**, **IT Support Specialist**, **Junior Azure Administrator**, **Service Desk Analyst**, and **Technical Onboarding Specialist**.
+I am currently open to roles in **Junior GRC Analyst**, **SOC Analyst**, **IT Support Specialist**, and **Technical Onboarding Specialist**.
 
-*   **Location:** Pretoria, South Africa (Remote Ready)
+*   **Location:** Pretoria/Johannesburg, South Africa (Remote Ready)
 *   **LinkedIn:** [Katlego Matlabe](https://www.linkedin.com/in/katlego-matlabe-12157715b/)
 *   **Email:** katlegoayrton@gmail.com
